@@ -91,9 +91,7 @@ Below are some visual highlights from the Power BI dashboard 👇
 Explore the interactive dashboard here:  
 👉 [**View Power BI Dashboard**](https://app.powerbi.com/links/zpCEYa9JH7?ctid=fbe9137e-2f40-4d34-88cd-cc8cb4c515ee&pbi_source=linkShare&bookmarkGuid=712864b0-c475-4a79-b7bd-00a7c953b264)
 
-*(Replace the above with your actual Power BI public link.)*
 
----
 
-## 📦 Repository Structure
+
 
